@@ -173,3 +173,4 @@ class _StopwatchState extends State<StopwatchScreen> {
     super.dispose();
   }
 }
+
